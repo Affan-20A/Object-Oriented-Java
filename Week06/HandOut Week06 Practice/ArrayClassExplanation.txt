@@ -1,0 +1,19 @@
+A shallow copy copies the reference of "anArray" and the value of "value" from v1 to v2...
+When we call v2.incerement() the "value" of v2 incerements but the "value" of v1 remains the same (passed by value).
+but "anArray" of v2 increments so does "anArray" of v1 because both share the same reference.
+
+That's why shallow --> share (references)
+
+Output with Shallow Copy:
+
+v1: Value = 10, Array = [1, 2, 3, 4, 5, 6]
+v2: Value = 10, Array = [1, 2, 3, 4, 5, 6]
+v2 after increment: Value = 11, Array = [2, 3, 4, 5, 6, 7]
+v1 after v2 increment: Value = 10, Array = [2, 3, 4, 5, 6, 7]
+
+Output with Deep Copy:
+
+v1: Value = 10, Array = [1, 2, 3, 4, 5, 6]
+v2: Value = 10, Array = [1, 2, 3, 4, 5, 6]
+v2 after increment: Value = 11, Array = [2, 3, 4, 5, 6, 7]
+v1 after v2 increment: Value = 10, Array = [1, 2, 3, 4, 5, 6]

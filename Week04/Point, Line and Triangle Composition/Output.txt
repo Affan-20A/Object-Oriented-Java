@@ -1,0 +1,20 @@
+Length: 7.0710678118654755
+Slope: 1.0
+Midpoint: (x, y) = (2.5, 2.5)
+Equation: y = 1.0x
+Is Vertical: false
+Is Horizontal: false
+Parallel: false
+Perpendicular: true
+Intersection: (x, y) = (2.5, 2.5)
+line1 equals line2: false
+line1 equals line3: true
+
+Perimeter: 11.21110255092798
+Area: 6.000000000000002
+Equals: true
+Equals: true
+The triangle has three lines:
+A: The Line has Starting Point (x, y) = (0.0, 0.0) and Ending Point (x, y) = (4.0, 0.0)
+B: The Line has Starting Point (x, y) = (4.0, 0.0) and Ending Point (x, y) = (2.0, 3.0)
+C: The Line has Starting Point (x, y) = (2.0, 3.0) and Ending Point (x, y) = (0.0, 0.0)

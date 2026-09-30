@@ -1,0 +1,24 @@
+Overloading:
+For overloading the parameters that a methods takes must be different and the return type is optional...
+
+Example:
+// Overloaded method return type same but parameters different
+public boolean equals(RationalNumber other) {
+    return other != null && this.numerator == other.numerator &&
+           this.denominator == other.denominator;
+}
+
+Overriding:
+For Overriding the parameters and the return type both must be same...
+
+Example:
+@Override
+public boolean equals(Object obj) {
+    if(this == obj)
+        return true;
+    if(obj == null || this.getClass() != obj.getClass())
+        return false;
+    RationalNumber other = (RationalNumber) obj;
+    return this.numerator == other.numerator &&
+           this.denominator == other.denominator;
+}

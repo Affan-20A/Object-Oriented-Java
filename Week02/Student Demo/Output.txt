@@ -1,0 +1,10 @@
+Enter score of test 1 for Ali: 80
+Enter score of test 2 for Ali: 60
+Name: Ali Test# 1 Score: 80.0 Test# 2 Score: 60.0
+Student Name: Ali
+Average Score: 70.0
+Enter score of test 1 for Sara: 70
+Enter score of test 2 for Sara: 100
+Name: Sara Test# 1 Score: 70.0 Test# 2 Score: 100.0
+Student Name: Sara
+Average Score: 85.0

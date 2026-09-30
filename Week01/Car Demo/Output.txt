@@ -1,0 +1,45 @@
+You Are Driving a White Toyota Corolla 2022
+Brand: Toyota
+Model: Corolla
+Year: 2022
+Colour: White
+Speed: 0.0km/h
+Fuel: 20.0litres
+
+Starting car
+
+Accelerating
+Brand: Toyota
+Model: Corolla
+Year: 2022
+Colour: White
+Speed: 25.0km/h
+Fuel: 10.0litres
+
+Turning left
+Direction: 95
+
+Turning right
+Direction: 90
+
+Speed: 0.0 km/h
+
+Fuel: 20.0 litres
+
+Car 2:
+Brand: Honda
+Model: Civic
+Year: 2023
+Colour: Black
+Speed: 0.0km/h
+Fuel: 20.0litres
+
+Car 3 (copy of Car 2):
+Brand: Honda
+Model: Civic
+Year: 2023
+Colour: Black
+Speed: 0.0km/h
+Fuel: 20.0litres
+
+Total cars created: 3

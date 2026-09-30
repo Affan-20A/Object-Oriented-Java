@@ -1,0 +1,8 @@
+p1 (Default): (x, y) = (0.0, 0.0)
+p2 (Parameterized): (x, y) = (3.0, 4.0)
+p3 (Copy): (x, y) = (3.0, 4.0)
+Total objects created: 3
+Distance of p2 from origin: 5.0
+Distance between p1 and p2: 5.0
+p1 after adding (5,5): (x, y) = (5.0, 5.0)
+p2 + (1,1) = (x, y) = (4.0, 5.0)

@@ -1,0 +1,22 @@
+Distance of p1 from origin: 11.045361017187261
+Distance b/w p1 and p2: 11.045361017187261
+Distance b/w p1 and p3: 2.23606797749979
+
+Subtracting p3 from p1: Vector is (2.0, 0.0, -1.0)
+Subtracting (0, 0, 0) from p3: Vector is (2.0, 5.0, 10.0)
+false
+true
+v1: Vector is (1.0, 2.0, 3.0)
+v2: Vector is (4.0, 5.0, 6.0)
+Addition (v1 + v2): Vector is (5.0, 7.0, 9.0)
+Subtraction (v1 - v2): Vector is (-3.0, -3.0, -3.0)
+Scalar Multiplication (v1 * 2.5): Vector is (2.0, 4.0, 6.0)
+Magnitude of v1: 3.7416573867739413
+Unit Vector of v1: Vector is (0.2672612419124244, 0.5345224838248488, 0.8017837257372732)
+Dot Product (v1 . v2): 32.0
+Cross Product (v1 x v2): Vector is (-3.0, 6.0, -3.0)
+Projection of v1 onto v2: 3.6467384467084143
+Is v1 parallel to v3? true
+Is v1 perpendicular to v4? true
+false
+true

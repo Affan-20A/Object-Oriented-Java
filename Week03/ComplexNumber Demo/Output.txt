@@ -1,0 +1,14 @@
+C1: Complex Number is 2.0 + 3.0i
+C2: Complex Number is 1.0 + 4.0i
+
+Addition: Complex Number is 3.0 + 7.0i
+Subtraction: Complex Number is 1.0 - 1.0i
+Multiplication: Complex Number is -10.0 + 11.0i
+Division: Complex Number is 0.8235294117647058 - 0.29411764705882354i
+
+Conjugate of C1: Complex Number is 2.0 - 3.0i
+Modulus of C1: 3.605551275463989
+Additive Inverse of C1: Complex Number is -2.0 - 3.0i
+Multiplicative Inverse of C1: Complex Number is 0.15384615384615385 - 0.23076923076923078i
+
+Objects Created: 9

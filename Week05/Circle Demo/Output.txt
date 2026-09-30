@@ -1,0 +1,21 @@
+<----- Without Composition ----->
+
+The Circle has radius = 5.0 and center (0.0, 0.0)
+Area: 78.53981633974483
+Contains (3, 4): true
+Distance between circles: 6.0
+Circles intersect: true
+Equation: (x - 0.0)^2 + (y - 0.0)^2 = 25.0
+Copy equals original: true
+Clone equals original: true
+
+<----- With Composition ----->
+
+The center of the circle is (x, y) = (0.0, 0.0) and its radius is 5.0
+Area: 78.53981633974483
+Contains (3, 4): true
+Distance between circles: 6.0
+Circles intersect: true
+Equation: (x - 0.0)^2 + (y - 0.0)^2 = 25.0
+Copy equals original: true
+Clone equals original: true

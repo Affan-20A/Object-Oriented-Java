@@ -1,0 +1,41 @@
+We overrided only hashCode() this was the main problem.
+Impact on JCF:
+    A HashSet handles storage using a 2-step process,
+    1. It calls hashCode()
+    2. It calls equals() to check if the objects are identical.
+    Since we did not override equals(), when HashSet called the equals() method only references
+    were compared and false returned, and HashSet considered them as distinct objects.
+
+Also when searching HashSet uses equals() to compare objects which returned false.
+
+Output before overriding equals():
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+true
+false
+false
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+s1 == s2           : false
+s1.equals(s2) : false
+sara 1 hash code : -1753187977
+sara 2 hash code : -1753187977
+xxxxxxxxxxx JFC: Hash-Set xxxxxxxxxxxxxxxxxxx
+HashSet size : 2
+Patient found : false
+xxxxxxxxxxx Hash-code xxxxxxxxxxxxxxxxxxx
+
+Output after overriding equals():
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+true
+true
+false
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+s1 == s2           : false
+s1.equals(s2) : true
+sara 1 hash code : -1753187977
+sara 2 hash code : -1753187977
+xxxxxxxxxxx JFC: Hash-Set xxxxxxxxxxxxxxxxxxx
+HashSet size : 1
+Patient found : true
+xxxxxxxxxxx Hash-code xxxxxxxxxxxxxxxxxxx

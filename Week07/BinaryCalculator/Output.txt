@@ -1,0 +1,16 @@
+Binary Number is 110010101000
+In Decimal Number System it is 3240
+Binary Number is 1
+In Decimal Number System it is 1
+
+After Addition ---
+Binary Number is 110010101001
+In Decimal Number System it is 3241
+In Octal: 6251
+In Hexadecimal: CA9
+
+Operations on Binary Numbers ---
+1011 + 0011 = 1110
+1011 - 0011 = 1000
+1011 * 0011 = 100001
+1011 / 0011 = 11

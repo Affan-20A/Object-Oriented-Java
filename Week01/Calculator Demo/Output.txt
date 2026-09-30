@@ -1,0 +1,31 @@
+Addition:
+Number 1 = 10.0
+Number 2 = 5.0
+Result = 15.0
+
+Subtraction:
+Number 1 = 10.0
+Number 2 = 5.0
+Result = 5.0
+
+Multiplication:
+Number 1 = 10.0
+Number 2 = 5.0
+Result = 50.0
+
+Division:
+Number 1 = 10.0
+Number 2 = 5.0
+Result = 2.0
+
+Default Calculator:
+Number 1 = 0.0
+Number 2 = 0.0
+Result = 0.0
+
+Copied Calculator:
+Number 1 = 10.0
+Number 2 = 5.0
+Result = 0.0
+
+Total Calculator objects: 3

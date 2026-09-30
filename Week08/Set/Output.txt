@@ -1,0 +1,27 @@
+A = { 1 2 3 4 5 6 7 8 9 10 }
+B = { 2 4 6 8 10 12 14 16 18 20 }
+
+Union of A and B = { 1 2 3 4 5 6 7 8 9 10 12 14 16 18 20 }
+Interscetion of A and B = { 2 4 6 8 10 }
+
+C = { a b c d e f g h } Cardinality = 8
+D = { b d f h x y z } Cardinality = 7
+
+C - D = { a c e g }
+Symmetric Difference = { a c e g x y z }
+
+E is { Affan Aown Abdul Rehman } Cardinality = 3
+F is { } Cardinality = 0
+
+E is a subset of F = false
+F is a subset of E = true
+E is a proper subset of F = false
+E and F are equal = false
+
+E is { Affan Aown Abdul Rehman } Cardinality = 3
+F is { Affan Aown Abdul Rehman } Cardinality = 3
+
+E is a subset of F = true
+F is a subset of E = true
+E is a proper subset of F = false
+E and F are equal = true

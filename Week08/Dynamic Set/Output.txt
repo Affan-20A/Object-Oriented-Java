@@ -1,0 +1,15 @@
+A = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20}
+B = {100, 200, 300, 400, 500}
+
+A and B are disjoint: true
+A is empty: false
+
+C = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20}
+
+C is a subset of A: true
+A is a subset of C: true
+C equals A: true
+
+If A=C then (A Union C) = (A Intersection C)
+Union: {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20}
+Intersection: {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20}

@@ -1,0 +1,16 @@
+The Rectangle has Length = 5.0 and Width = 10.0
+The vertices are (x, y) = (0.0, 0.0) (x, y) = (10.0, 0.0) (x, y) = (10.0, 5.0) (x, y) = (0.0, 5.0)
+
+Area of R1: 50.0
+Area of R2: 50.0
+
+Diagonal of R1: 11.180339887498949
+Diagonal of R2: 11.180339887498949
+
+Center of R2: (x, y) = (5.0, 2.5)
+
+Copy equals original (R1): true
+Copy equals original (R2): true
+
+Clone equals original (R1): true
+Clone equals original (R2): true

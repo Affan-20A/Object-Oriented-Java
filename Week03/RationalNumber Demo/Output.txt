@@ -1,0 +1,18 @@
+The Rational Number is 2/3
+The Rational Number is 4/5
+
+Addition: The Rational Number is 22/15
+Subtraction: The Rational Number is -2/15
+Multiplication: The Rational Number is 8/15
+Division: The Rational Number is 10/12
+
+Before simplify: The Rational Number is 8/12
+After simplify: The Rational Number is 2/3
+
+Reciprocal of r2: The Rational Number is 5/4
+Copy of r1: The Rational Number is 2/3
+After set: The Rational Number is -10/20
+Numerator: -10
+Denominator: 20
+
+Objects created: 8

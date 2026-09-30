@@ -1,0 +1,29 @@
+Triangle 1:
+Side A = 1.0
+Side B = 1.0
+Side C = 1.0
+Perimeter = 0.0
+Area = 0.0
+Perimeter: 3.0
+Area: 0.4330127018922193
+Valid: true
+Equilateral: true
+
+Triangle 2:
+Side A = 5.0 Side B = 5.0 Side C = 5.0
+Perimeter: 15.0
+Area: 10.825317547305483
+Equilateral: true
+
+Triangle 3:
+Side A = 3.0
+Side B = 4.0
+Side C = 5.0
+Perimeter = 0.0
+Area = 0.0
+Right Angled: true
+Scalene: true
+Largest Side: 5.0
+Smallest Side: 3.0
+
+Total Triangle objects created: 3

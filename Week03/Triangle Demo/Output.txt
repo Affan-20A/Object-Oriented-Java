@@ -1,0 +1,44 @@
+Triangle t1
+The vertices are (x, y) = (0.0, 0.0) (x, y) = (4.0, 0.0) (x, y) = (2.0, 3.0)
+Point A is (x, y) = (0.0, 0.0)
+Point B is (x, y) = (4.0, 0.0)
+Point C is (x, y) = (2.0, 3.0)
+
+Vertices:
+A = (x, y) = (0.0, 0.0)
+B = (x, y) = (4.0, 0.0)
+C = (x, y) = (2.0, 3.0)
+
+Sides:
+Side A = 3.605551275463989
+Side B = 3.605551275463989
+Side C = 4.0
+
+Perimeter:
+11.21110255092798
+
+Area:
+6.000000000000002
+
+Centroid:
+(x, y) = (2.0, 1.0)
+
+Angles:
+Angle A = 0.98
+Angle B = 0.98
+Angle C = 1.18
+
+Copied Triangle t2
+The vertices are (x, y) = (0.0, 0.0) (x, y) = (4.0, 0.0) (x, y) = (2.0, 3.0)
+
+Total Triangle objects: 2
+
+Triangle t2 after set()
+Point A is (x, y) = (1.0, 1.0)
+Point B is (x, y) = (6.0, 1.0)
+Point C is (x, y) = (3.0, 5.0)
+Area = 10.0
+
+Invalid Vertices
+
+Triangle without vertices does not exist
